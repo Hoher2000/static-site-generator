@@ -1,3 +1,3 @@
-2024-05-01 17:53:48.253152: directory /home/paulina/workspace/github.com/Hoher2000/static_site_generator/static/images copied to directory /home/paulina/workspace/github.com/Hoher2000/static_site_generator/public/images
-2024-05-01 17:53:48.258088: file /home/paulina/workspace/github.com/Hoher2000/static_site_generator/static/images/rivendell.png copied to directory /home/paulina/workspace/github.com/Hoher2000/static_site_generator/public/images
-2024-05-01 17:53:48.258717: file /home/paulina/workspace/github.com/Hoher2000/static_site_generator/static/index.css copied to directory /home/paulina/workspace/github.com/Hoher2000/static_site_generator/public
+2024-05-01 22:41:43.478609: directory /home/paulina/workspace/github.com/Hoher2000/static-site-generator/static/images copied to directory /home/paulina/workspace/github.com/Hoher2000/static-site-generator/public/images
+2024-05-01 22:41:43.484561: file /home/paulina/workspace/github.com/Hoher2000/static-site-generator/static/images/rivendell.png copied to directory /home/paulina/workspace/github.com/Hoher2000/static-site-generator/public/images
+2024-05-01 22:41:43.487768: file /home/paulina/workspace/github.com/Hoher2000/static-site-generator/static/index.css copied to directory /home/paulina/workspace/github.com/Hoher2000/static-site-generator/public
