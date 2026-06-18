@@ -60,13 +60,13 @@ def main():
                 generate_pages_recursive(new_dir_path_content, template_path, new_dest_dir_path)
 
 
-    src = '/home/paulina/workspace/github.com/Hoher2000/static-site-generator/static'
-    dest = '/home/paulina/workspace/github.com/Hoher2000/static-site-generator/public'
+    src = '../static'
+    dest = '../public'
 
-    template_path = '/home/paulina/workspace/github.com/Hoher2000/static-site-generator/template.html'
+    template_path = '../template.html'
 
-    dir_path_content = '/home/paulina/workspace/github.com/Hoher2000/static-site-generator/content'
-    dest_dir_path = '/home/paulina/workspace/github.com/Hoher2000/static-site-generator/public'
+    dir_path_content = '../content'
+    dest_dir_path = '../public'
 
     recursiv_copy(src, dest)
     
